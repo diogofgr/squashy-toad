@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squashy-toad", "Assembly-CSharp.csproj", "{512790BA-B1AB-9092-56D3-267482608299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squashy-toad", "Assembly-CSharp-Editor.csproj", "{2CEF0307-41F3-9FFA-48D8-709C3484CCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512790BA-B1AB-9092-56D3-267482608299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512790BA-B1AB-9092-56D3-267482608299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512790BA-B1AB-9092-56D3-267482608299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512790BA-B1AB-9092-56D3-267482608299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEF0307-41F3-9FFA-48D8-709C3484CCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEF0307-41F3-9FFA-48D8-709C3484CCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEF0307-41F3-9FFA-48D8-709C3484CCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEF0307-41F3-9FFA-48D8-709C3484CCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
